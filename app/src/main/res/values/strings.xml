@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">R 3 K T   Calculate</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tingggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+</resources>
