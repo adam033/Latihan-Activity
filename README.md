@@ -31,9 +31,24 @@ Melakukan input ke dalam obyek EditText → melakukan validasi input → melakuk
 -**Coding Layout** untuk user interface aplikasi <br>
 -**Coding Activity** untuk menambahkan logika aplikasi <br>
 
-______________________________________________________________________________________________________________________________
-## Untuk Selengkapnya Cek Modul ya
-______________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________ <br>
+## Untuk Selengkapnya Cek Modul ya <br>
+______________________________________________________________________________________________________________________________ <br>
+### Praktikum Membuat Aplikasi Kalkulator <br>
+![Alt Text](https://github.com/adam033/Latihan-Activity/blob/master/Screenshot%20(272).png) <br>
+Dalam praktikum ini kita akan belajar membuat aplikasi sederhana berupa kalkulator sederhana penghitung luas , dari sini kita pertama akan membuat empty activity dan terdiri dari mainactivity (Untuk melakukan backend daripada aplikasi kalkulator tersebut) ,Strings.xml (untuk melakukan deklarasi daripada variabel yang terdapat pada android) dan activy_main.xml(Front end yang akan menjadi tampilan utama pada aplkasi kalkulator tersebut) . <br>
+
+**Note : Bahasa pemrograman pada saat ini menggunakan Java** <br>
+
+**___________________________________________________________________________________________________________________________** <br>
+### Praktikum Membuat Biodata <br>
+![Alt Text](https://github.com/adam033/Latihan-Activity/blob/master/Screenshot%20(273).png) <br>
+Dalam praktikum kedua ini kita akan belajar membuat biodata pada aplikasi pada android yang berisikan identitas kita dan gambar pribadi kita sehingga kita bisa memperkenalkan diri kita melalui aplikasi ini. <br>
+**___________________________________________________________________________________________________________________________** <br>
+
+**Dan untuk RUN aplikasi ini menggunakan emulator dan disambungkan lewat HP  sehingga bisa di run dan dilihat melalui emulator yang telah di run** <br>
+##### Note : Perhatikan dan sesuaikan emulator anda dengan spesifikasi HP anda
+
 
 
 
