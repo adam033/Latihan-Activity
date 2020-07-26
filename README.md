@@ -8,8 +8,8 @@ Praktikum pertama adalah dengan membuat aplikasi yang dapat menghitung volume ba
 Melakukan input ke dalam obyek EditText → melakukan validasi input → melakukan perhitungan volume balok ketika tombol hitung diklik. <br>
 
 **Praktikum Membuat Proyek Baru** <br>
--Buat proyek baru dengan klik File → New → New Project pada Android Studio Anda atau Anda bisa memilih Start a new Android Studio project di bagian dashboard. <br>
--Pada bagian ini kita akan memilih tipe activity awal dari template yang telah disediakan. Saat ini Android Studio sudah menyediakan berbagai macam template activity dari yang paling sederhana hingga yang paling kompleks seperti: <br>
+1. Buat proyek baru dengan klik File → New → New Project pada Android Studio Anda atau Anda bisa memilih Start a new Android Studio project di bagian dashboard. <br>
+2. Pada bagian ini kita akan memilih tipe activity awal dari template yang telah disediakan. Saat ini Android Studio sudah menyediakan berbagai macam template activity dari yang paling sederhana hingga yang paling kompleks seperti: <br>
 **Add No Activity**            : Tidak ada activity yang ditambahkan <br>
 **Basic Activity**	            : Activity dengan template komponen material design seperti FloatingActionButton <br>
 **Bottom Navigation Activity**	: Activity dengan tampilan side bar menu di bagian bawah <br>
