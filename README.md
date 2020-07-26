@@ -31,6 +31,10 @@ Melakukan input ke dalam obyek EditText → melakukan validasi input → melakuk
 -**Coding Layout** untuk user interface aplikasi <br>
 -**Coding Activity** untuk menambahkan logika aplikasi <br>
 
+______________________________________________________________________________________________________________________________
+## Untuk Selengkapnya Cek Modul ya
+______________________________________________________________________________________________________________________________
+
 
 
 
